@@ -7,7 +7,7 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_id = "de8824dc-0e29-47c2-a266-c67869709a28"
 
 # 生产环境配置
 [env.production]
@@ -24,8 +24,8 @@ database_id = "de8824dc-0e29-47c2-a266-c67869709a28"
 NEXT_PUBLIC_STORAGE_TYPE = "d1"
 NEXT_PUBLIC_SITE_NAME = "KatelyaTV"
 NEXT_PUBLIC_SITE_DESCRIPTION = "高性能影视播放平台"
-NEXTAUTH_URL = "https://tv.katelya.eu.org"
-USERNAME = "katelya"
+NEXTAUTH_URL = "https://ktv.yage.pp.ua"
+USERNAME = "admin"
 AUTH_PASSWORD = "ab1433223cd@"
 IMAGE_PROXY_ENABLED = "true"
 CACHE_TTL = "3600"
